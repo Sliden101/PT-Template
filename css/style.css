@@ -1,0 +1,21 @@
+#root,
+body,
+html {
+    height: 100%;
+    background: #000000;
+    color: #ffffff;
+    overflow: hidden;
+    font-family: 'Source Code Pro', monospace;
+}
+#menu-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
