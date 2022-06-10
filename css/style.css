@@ -135,3 +135,20 @@ body {
   margin: 10px 50px;
   align-items: center;
 }
+.content{
+  margin: 10px 50px;
+}
+.content h1{
+  font-size: 30px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+  color: #2e879b;
+}
+.content p{
+  font-size: 20px;
+  font-family: Orbitron;
+  letter-spacing: 7px;
+  color: #2e879b;
+}
+
+
